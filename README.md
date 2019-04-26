@@ -2,8 +2,8 @@
 Arduino Nano based controller for IKEA Bekant desk. Allows for manual height control, saving positions and auto height adjustment with a press of a button.
 
 # Schematic
-![Schematic](/schematic.png?s=200)
-This schematic is a mix of trainman419's work, gcormier's improvements and my poor electronics skills. Please refer to the original in case you're uncertain about it.
+![Schematic](/schematic.png)
+This schematic is a mix of trainman419's work, gcormier's improvements and my poor electronics skills. Please refer to the original in case you're uncertain about my schematic.
 
 # Parts
 | name                                      | amount |
